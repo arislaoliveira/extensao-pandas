@@ -4,8 +4,6 @@ Repositório criado pelo *Google Colaboratory* para o curso de extensão ***de a
 
 ***Aluna***
 
-
 Arisla Santos de Oliveira - **88222242229**
-
 
 Engenharia da Computação - USJT
